@@ -1,0 +1,14 @@
+.places{
+    margin: 64px auto 0 auto;
+}
+
+@media screen and (max-width: 767px){
+    .places{
+        max-width: 100%;
+    }
+}
+.places{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

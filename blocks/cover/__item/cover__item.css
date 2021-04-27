@@ -12,7 +12,10 @@
     position: relative;
     z-index: 1;
     margin-bottom: 92px;
+}
 
+.cover__item:link{
+    text-decoration: none;
 }
 
 .cover__item:before{

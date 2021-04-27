@@ -1,0 +1,25 @@
+.overview__note{
+    font-size: 10px;
+    line-height: 14px;
+    font-weight: 400;
+    margin-top: 8px;
+    margin-left: 100px;
+}
+
+@media screen and (max-width: 1279px) {
+    .overview__note {
+        margin-left: 48px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .overview__note {
+        margin-left: 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .overview__note {
+        margin-left: 16px;
+    }
+}

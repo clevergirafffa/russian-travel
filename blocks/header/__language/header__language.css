@@ -1,0 +1,16 @@
+.header__language{
+    display: inline;
+    margin-left: 18px;
+}
+
+@media screen and (max-width: 1023px){
+    .header__language:last-of-type{
+        margin-right: 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header__language:last-of-type{
+        margin-right: 16px;
+    }
+}

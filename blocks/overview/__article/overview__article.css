@@ -1,0 +1,28 @@
+.overview__article{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    margin-left: 100px;
+    max-width: 690px;
+    margin-top: 40px;
+}
+
+@media screen and (max-width: 1279px) {
+    .overview__article{
+        margin-left: 48px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .overview__article{
+        margin-left: 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .overview__article{
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}

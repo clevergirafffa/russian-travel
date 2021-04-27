@@ -1,0 +1,17 @@
+.overview__extraheader{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    margin: 32px auto 0 auto;
+    max-width: 642px;
+}
+
+@media screen and (max-width: 767px) {
+    .overview__extraheader {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        margin: 16px auto 0 auto;
+    }
+}

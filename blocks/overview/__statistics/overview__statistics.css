@@ -1,0 +1,25 @@
+.overview__statistics{
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 400;
+    margin-left: 100px;
+    margin-top: 33px;
+}
+
+@media screen and (max-width: 1279px) {
+    .overview__statistics{
+        margin-left: 48px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .overview__statistics{
+        margin-left: 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .overview__statistics{
+        margin-left: 16px;
+    }
+}

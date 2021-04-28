@@ -1,0 +1,27 @@
+.information{
+    margin: 92px auto 0 auto;
+    max-width: calc(100% - 100px*2);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 1279px) {
+    .information {
+        max-width: calc(100% - (48px*2));
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .information {
+        max-width: calc(100% - (24px*2));
+        margin: 88px auto 0 auto;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .information {
+        max-width: calc(100% - (16px*2));
+        margin: 64px auto 0 auto;
+    }
+}

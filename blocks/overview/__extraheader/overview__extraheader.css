@@ -7,11 +7,16 @@
     max-width: 642px;
 }
 
+@media screen and (max-width: 1023px) {
+    .overview__extraheader {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
 @media screen and (max-width: 767px) {
     .overview__extraheader {
-        font-weight: 400;
         font-size: 16px;
         line-height: 20px;
-        margin: 16px auto 0 auto;
+        margin: 16px 15px 0 15px;
     }
 }

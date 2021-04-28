@@ -1,6 +1,4 @@
 .page__container{
-    font-family: Inter, Arial, sans-serif;
-    color: #FFFFFF;
     max-width: calc(100% - (48px*2));
     min-width: 320px;
     margin: 0 auto;

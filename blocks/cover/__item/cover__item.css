@@ -8,7 +8,6 @@
     align-items: center;
     box-sizing: border-box;
     background-size: cover;
-    padding: 0 312px;
     position: relative;
     z-index: 1;
     margin-bottom: 92px;
@@ -38,16 +37,13 @@
 @media screen and (max-width: 1279px){
     .cover__item{
         min-height: 640px;
-        padding: 0 232px;
     }
 }
 
 @media screen and (max-width: 1023px){
     .cover__item{
         min-height: 480px;
-        padding: 0 104px;
         margin-bottom: 88px;
-
     }
 }
 
@@ -55,6 +51,6 @@
     .cover__item{
         min-height: 200px;
         padding: 0 16px;
-
+        margin-bottom: 64px;
     }
 }

@@ -26,15 +26,11 @@
 @import url('../blocks/page/__container/page__container.css');
 
 @import url('../blocks/overview/overview.css');
-@import url('../blocks/overview/__container/overview__container.css');
 @import url('../blocks/overview/__header/overview__header.css');
 @import url('../blocks/overview/__extraheader/overview__extraheader.css');
 @import url('../blocks/overview/__main-illustration/overview__main-illustration.css');
 @import url('../blocks/overview/__note/overview__note.css');
-@import url('../blocks/overview/__question/overview__question.css');
-@import url('../blocks/overview/__article/overview__article.css');
-@import url('../blocks/overview/__statistics/overview__statistics.css');
-@import url('../blocks/overview/__accent/overview__accent.css');
+@import url('../blocks/overview/__figure/overview__figure.css');
 
 @import url('../blocks/place/place.css');
 @import url('../blocks/place/__title/place__title.css');
@@ -45,6 +41,12 @@
 @import url('../blocks/place/__info/place__info.css');
 @import url('../blocks/place/__paragraph/place__paragraph.css');
 @import url('../blocks/places/places.css');
+
+@import url('../blocks/information/information.css');
+@import url('../blocks/information/__question/information__question.css');
+@import url('../blocks/information/__article/information__article.css');
+@import url('../blocks/information/__statistics/information__statistics.css');
+@import url('../blocks/information/__accent/information_accent.css');
 
 
 

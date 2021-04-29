@@ -2,5 +2,8 @@
     font-size: 12px;
     line-height: 18px;
     font-weight: 400;
+    padding: 0;
     margin: 33px auto 0 0;
+    list-style-type: none;
+
 }

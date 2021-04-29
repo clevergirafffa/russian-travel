@@ -24,7 +24,6 @@
 @media screen and (max-width: 767px) {
     .overview__main-illustration {
         min-height: 200px;
-        max-width: 100%;
         margin: 40px auto 0 auto;
 
     }

@@ -6,6 +6,12 @@
     align-content: flex-start;
 }
 
+@media screen and (max-width: 1023px){
+    .overview{
+        flex-direction: column;
+        align-items: center;
+    }
+}
 
 
 

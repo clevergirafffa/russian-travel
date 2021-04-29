@@ -15,8 +15,7 @@
 
 @media screen and (max-width: 1023px) {
     .overview__header {
-        margin-left: 15px;
-        margin-right: 15px;
+        margin: 30px 15px 0 15px;
     }
 }
 
